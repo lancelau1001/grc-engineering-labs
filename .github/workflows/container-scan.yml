@@ -3,7 +3,7 @@ name: container-scan
 on:
   push:
     paths:
-      - "/workspaces/grc-engineering-labs/01-vuln-scanning/app/**"
+      - "01-vuln-scanning/app/**"
       - ".github/workflows/container-scan.yml"
   workflow_dispatch:
 
