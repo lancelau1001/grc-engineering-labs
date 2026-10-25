@@ -1,0 +1,6 @@
+completed	success	fix: return to a current Alpine base and non-root user to clear criti…	container-scan	main	push	40171254814	2026-10-25T07:01:58Z
+completed	failure	test: switch to end-of-life node:14 to prove the gate blocks critical…	container-scan	main	push	40170918952	2026-10-25T06:56:39Z
+completed	success	feat: add app source code for container vulnerability scanning	container-scan	main	push	40170652342	2026-10-25T06:52:19Z
+completed	failure	ci: fix container scan build path to 01-vuln-scanning/app	container-scan	main	push	40170401489	2026-10-25T06:48:12Z
+completed	failure	ci: add container scan gate that fails on critical CVEs (RA-5, SA-11,…	container-scan	main	push	40170062973	2026-10-25T06:42:42Z
+completed	failure	ci: add container scan gate that fails on critical CVEs (RA-5, SA-11,…	container-scan	main	push	40169716918	2026-10-25T06:36:56Z
