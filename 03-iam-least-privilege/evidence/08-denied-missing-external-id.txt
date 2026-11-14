@@ -1,0 +1,2 @@
+
+aws: [ERROR]: An error occurred (AccessDenied) when calling the AssumeRole operation: User: arn:aws:sts::111122223333:assumed-role/AWSReservedSSO_AdministratorAccess_854a992e531c4a2d/lancelau1994@gmail.com is not authorized to perform: sts:AssumeRole on resource: arn:aws:iam::111122223333:role/csl-auditor-readonly. Go to https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1#/authorization-details/eefihgf0a27msou08qlstckza for complete details, or call the GetRequestAuthorizationDetails API with the following authorization id: eefihgf0a27msou08qlstckza
